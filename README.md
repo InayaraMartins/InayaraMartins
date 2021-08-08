@@ -1,4 +1,4 @@
-- 👋 Olá @InayaraMartins! Sou Drª em Ciência de Alimentos com foco em estudos com Consumidor e Análise Sensorial de Alimentos.
+- 👋 Olá sou @InayaraMartins! Sou Drª em Ciência de Alimentos com foco em estudos com Consumidor e Análise Sensorial de Alimentos.
 - 🧠 A Análise Sensorial é uma Ciência que estuda as percepções, sensações e reações dos consumidores sobre as características 
      de um produto (alimentos humano e animal, cosméticos, automóveis e etc), incluindo sua aceitação e rejeição. A avaliação 
      sensorial envolve diferentes testes que geram muitos dados e está intimamente ligada a análise estatística.
