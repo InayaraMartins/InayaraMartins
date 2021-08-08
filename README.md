@@ -3,7 +3,7 @@
      de um produto (alimentos humano e animal, cosméticos, automóveis e etc), incluindo sua aceitação e rejeição. A avaliação 
      sensorial envolve diferentes testes que geram muitos dados e está intimamente ligada a análise estatística.
 - 👀 Devido ao constante contato com a análises estatísticas, acabai me interessando em aprofundar um pouco mais nessa área.
-     Hoje uso a a linguagem R para a maioria das análises estatísticas que realizo. Mas ainda me considero iniciante na linguagem. 
+     Hoje uso a linguagem R para a maioria das análises estatísticas que realizo. Mas ainda me considero iniciante na linguagem. 
      Mas estou sempre aprendendo 😉
 - 🌱 Atualmente estou aprendendo a linguagem Python e cursando Ciência de Dados.
 - 💞️ Espero colaborar com quem, assim como eu, está iniciando na área de Ciência de Dados e quem se interessar pela área de alimentos
