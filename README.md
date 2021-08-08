@@ -6,8 +6,8 @@
      Hoje uso a linguagem R para a maioria das análises estatísticas que realizo. Mas ainda me considero iniciante na linguagem. 
      Mas estou sempre aprendendo 😉
 - 🌱 Atualmente estou aprendendo a linguagem Python e cursando Ciência de Dados.
-- 💞️ Espero colaborar com quem, assim como eu, está iniciando na área de Ciência de Dados e quem se interessar pela área de alimentos
-     e sensorial. Aqui vou dividir minha evolução em Python e algumas análises estatísticas usando a linguagem R.
+- 💞️ Espero colaborar com quem, assim como eu, está iniciando na área de Ciência de Dados e quem se interessar pela área de Alimentos
+     e Sensorial. Aqui vou dividir minha evolução em Python e algumas análises estatísticas usando a linguagem R.
 - 📫 Para me encontrar é só mandar um e-mail inayarabeatriz@gmail.com. Coloca no assunto: 'Te achei no Github'. 
      É isso pessoal! Sempre aprendendo... 
 <!---
